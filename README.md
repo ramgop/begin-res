@@ -8,5 +8,5 @@ The best way to get started on vim is to play [VIM Adventures](https://vim-adven
 I have also created a [basic cheatsheet](./vim-notes.md)  
 
 ## Git basics
-This (Learn Git Branching)[http://learngitbranching.js.org/] gives you all the info on how to use git that you would need in a very clean and simple format.
+This [Learn Git Branching](http://learngitbranching.js.org/) gives you all the info on how to use git that you would need in a very clean and simple format.
  
