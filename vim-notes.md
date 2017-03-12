@@ -5,7 +5,7 @@ This is intented to cheat sheet which can also be used to learn what I feel are 
 ### Getting around
 `/`                             - search. Pretty amazing to use to jump to places not just to search (n for next, N for previous)
 
-`?`                             - reverse search (exactly same as search apart from N and n are swapped around
+`?`                             - reverse search (exactly same as search apart from N and n are swapped around)
 
 `^`                             - go to start of line
 
@@ -18,6 +18,10 @@ This is intented to cheat sheet which can also be used to learn what I feel are 
 `b`                             - go to start of current word (or previous word if already at start)
 
 `e`                             - go to end of the word
+
+`ctrl + o`                      - go to the previous cursor position
+
+`:help`                         - help is your friend. use `ctrl + ]` to follow links to sections
 
 ### Changing modes
 
