@@ -91,6 +91,12 @@ note that a lot of these are actually changing modes and doing stuff but i consi
 
 ctrl +e ctrl-x edit command line command in vim
 ## More advanced
+### Manipulating files
+
+`:r`                            - reads a file and puts its contents in the buffer in the current position
+
+`:!<cmd>`                       - executes a terminal command (it can be used with r like `:r!ls` to write output of command to buffer
+
 ### recording macros
 ### non-ascii
 
